@@ -1,17 +1,18 @@
 <resources>
     <string name="app_name">Destini</string>
 
+
     <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
     <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
     <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
 
 
-    <string name="T2_Story">He nods slowly, unphased by the question.</string>
+    <string name="T2_Story">He nods slowly, unmoved the question.</string>
     <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
     <string name="T2_Ans2">Wait, I know how to change a tire.</string>
 
 
-    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
+    <string name="T3_Story">As stranger begins to drive, he starts talking about his relationship with his wife. He gets angrier and angrier by the minute. He asks you to open the glove box. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
     <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
     <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
 
